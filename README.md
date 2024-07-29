@@ -1,0 +1,5 @@
+- This is a iOS mobile app written in Swift I cowrote with two other group members from Nov 2023 to Dec 2024.
+- It aims at helping users quit smoking.
+- A user could register, login, edit profile, keep track of smoke-free time, share their experience in the public forum the app provides.
+- The login and registration of users are managed through Firebase authentication.
+- The data is stored on cloud using Firebase Database and Firebase Storage.
